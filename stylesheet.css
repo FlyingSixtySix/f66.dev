@@ -1,0 +1,18 @@
+body {
+    background: hsl(260deg, 75%, 20%);
+    color: #FFF;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 10px;
+}
+
+a {
+    color: hsl(200deg, 100%, 50%);
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    margin: 16px 0;
+}
